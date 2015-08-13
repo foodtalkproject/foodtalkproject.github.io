@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Prototype
+group: post
 ---
 
 Currently, we are working on our prototype, you can view our presentation below:

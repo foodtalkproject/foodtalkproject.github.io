@@ -1,6 +1,7 @@
 ---
 layout: page
 title: About our team
+group: about
 permalink: /about/
 ---
 
@@ -17,6 +18,5 @@ Hi everyone, I am VO Tuong Tho, I am currently the leader and core developer of 
 Dear Customers, I am TRAN MAI Thi, data analyst of  Food Talk project. In this project , I take part in collection, analysis and development of databases for our application. By introducing our Food Talk device and application to you, we wish to help you know how much food you need and what your food needs.
 
 {% include image.html img="/images/thi.jpg" title="Tran Mai Thi" caption="Tran Mai Thi" class="about-avatar" width="200" height="200" %}
-### Contact us
 
-[foodtalkproject@gmail.com](mailto:foodtalkproject@gmail.com)
+<a href="/contact">Contact us</a>

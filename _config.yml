@@ -78,6 +78,10 @@ exclude:
 navigation:
 - text: Our Information
   url: 
-  layout: post
+  group: post
 - text: About Us
   url: about/
+  group: about
+- text: Contact Us
+  url: contact/
+  group: contact

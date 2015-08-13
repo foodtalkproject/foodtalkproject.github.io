@@ -33,10 +33,6 @@
         </div>
         <div class="mdl-layout__tab-bar mdl-color--primary-dark">
           {% for link in site.navigation %}
-            <!-- {{ page.url }}
-            {{ link.url }}
-            {{ page.group }}
-            {{ link.group }} -->
             {% if page.group == link.group %}  
               <a class="current mdl-layout__tab" href="{{ site.baseurl }}/{{ link.url }}">{{ link.text }}</a>
             {% else %}

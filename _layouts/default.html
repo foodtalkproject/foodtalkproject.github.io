@@ -31,14 +31,12 @@
         </div>
         <div class="mdl-layout--large-screen-only mdl-layout__header-row">
         </div>
-        <div class="mdl-layout__tab-bar mdl-js-ripple-effect mdl-color--primary-dark">
-          <!-- <a href="{{ site.baseurl }}" class="mdl-layout__tab is-active">Our Information</a>
-          <a href="{{ site.baseurl }}/about/" class="mdl-layout__tab">About Our Team</a> -->
-          {% unless page.layout == 'front' %}
-              {% for link in site.navigation %}
-                  <a class="{% if page.url == link.url or page.layout == link.layout %}is-active{% endif %} mdl-layout__tab" href="{{ site.baseurl }}/{{ link.url }}">{{ link.text }}</a>
-              {% endfor %}
-          {% endunless %}
+        <div class="mdl-layout__tab-bar mdl-color--primary-dark">
+          <!-- <a href="{{ site.baseurl }}" class="mdl-layout__tab">Our Information</a>
+          <a href="{{ site.baseurl }}/about/" class="mdl-layout__tab">About Us</a> -->
+          {% for link in site.navigation %}
+              <a class="{% if page.url == link.url or page.layout == link.layout %}is-active{% endif %} mdl-layout__tab" href="{{ site.baseurl }}/{{ link.url }}">{{ link.text }}</a>
+          {% endfor %}
         </div>
       </header>
       <main class="mdl-layout__content">
@@ -49,15 +47,11 @@
         <footer class="mdl-mega-footer">
           {% include svg-icons.html %}
           {% include analytics.html %}
-          {% include scripts.html %}
+          <!-- {% include scripts.html %} -->
           <div class="mdl-mega-footer--bottom-section">
-            <div class="mdl-logo">
-              More Information
-            </div>
             <ul class="mdl-mega-footer--link-list">
-              <li><a href="https://developers.google.com/web/starter-kit/">Web Starter Kit</a></li>
-              <li><a href="#">Help</a></li>
-              <li><a href="#">Privacy and Terms</a></li>
+              <li><a href="/">Our Information</a></li>
+              <li><a href="/about/">About Us</a></li>
             </ul>
           </div>
         </footer>

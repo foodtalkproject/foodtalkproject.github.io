@@ -298,3 +298,16 @@ footer {
 @import "svg-icons";
 @import "material";
 @import "google_style";
+
+// My style 
+.image-wrapper {
+    text-align: center;
+
+    .image-caption {
+        color: $black;
+        margin-top: 5px;
+    }
+}
+.about-avatar{
+  border-radius: 50%;
+}

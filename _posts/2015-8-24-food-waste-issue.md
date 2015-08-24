@@ -7,17 +7,17 @@ update: 2015-8-24
 
 The issues of global food waste has received much attention in recent years from developed countries. According to FAO in 2011, approximately one third of all food produced for human consumption – around 1.3 billion tons per years – is lost or wasted globally, which cost almost &#36;750 billion. In EU, nearly 100 million tons of food are wasted each year (estimate for 2012). Wasting food is not only a humanitarian concern and economic issue but it also depletes the environment of limited natural resources.
 
-<h2> What is food waste? </h2>
+<h4> What is food waste? </h4>
 
 In a report of FAO published in 2013, food waste is defined as "intentional discards of edible items, mainly by retailers and consumers, and is due to the behavior of businesses and individuals". Food waste often occurs in developed countries because consumers fail to plan their shopping, over purchase, or over-react to "best-before-dates," while quality and aesthetic standards lead retailers to reject large amounts of perfectly edible food. In addition, excessive nutrition is considered as a form of food waste (Barilla, 2012). People in developed countries have a tendency to consume more food which led to the excessive calories requirement. Thus, a larger excess growth was recorded in obesity rates (OECD, 2014), which leds to several pathologies.
 
-<h2> Food waste is different from food loss </h2>
+<h4> Food waste is different from food loss </h4>
 
 Food loss is the unintended reduction in food available for human consumption that results from inefficiencies in supply chains: poor infrastructure and logistics, lack of technology, insufficient skills, knowledge and management capacity. It mainly occurs at production- postharvest and processing stages, for example when food goes unharvested or is damaged during processing, storage and transport and disposed of (FAO, 2013).
 
 Food loss usually occur in developing countries as a result of financial and structural limitations in harvesting techniques and storage and transport infrastructure, combined with climatic conditions favorable to food spoilage.
 
-<h2> Households is main source of food waste </h2>
+<h4> Households is main source of food waste </h4>
 
 Consumer behavior is a main driver of food going to waste. <strong> Almost one third of food wastage </strong> is from consumption level in developed countries. In Europe, <strong> 50% </strong> of food waste is generated in private households (FUSION, 2015). According to a study of WRAP in UK, about 2/3 of household waste is due to food spoilage from not being used in time, 1/3 is caused by people cooking or serving too much.
 
@@ -25,7 +25,7 @@ Consumer behavior is a main driver of food going to waste. <strong> Almost one t
 
 {% include image.html img="/images/source-food-waste.png" title="Source of food waste in Europe (Survey of FUSION, 2015)" caption="Source of food waste in Europe (Survey of FUSION, 2015)" class="normal" width="auto" height="auto" %}
 
-<h2> Wasting food is wasting money and natural resources </h2>
+<h4> Wasting food is wasting money and natural resources </h4>
 
 According to numerous reports, food waste cost much money. In USA, The cost estimate for the average family of four is <strong> &#36;1,365 to &#36;2,275 </strong> each year. Average UK household spend <strong> &pound;470 </strong> for wasting food. Additionally, UK household with children spend more than 32% of waste food cost. By reducing food waste amount, a household in EU would <strong> save almost 600 &euro; per year </strong>. (EU, 2014)
 
@@ -42,13 +42,13 @@ Producing food that is squandered also wastes important finite resources such as
 - Similarly, 1.4 billion hectares of land - 28 % of the world's agricultural area - is used each year to produce uneaten food.
 - Food waste consumes more than 300 million barrels of oil per year (4% of total U.S. oil consumption)
 
-<h2> Consumers having a great power in reducing food waste </h2>
+<h4> Consumers having a great power in reducing food waste </h4>
 
 As a consumer, you have a great power in reducing the total amount of food waste by taking measures on all levels of your daily lives: Shopping, storing and cooking habits need to be revised.
 Furthermore, you can influence production and retail patterns regarding food waste. Surveys (EU, 2014) reveal that consumers are willing to purchase heterogeneous ("misshapen") products if the taste is not concerned. Thus, you could pressure the farmers and wholesalers via the retailers not to sort out "misshapen" fruits and vegetables and force retailers to loosen their aesthetic standards.
 
 
-<h2> Food Talk is consumers's friend against food waste </h2>
+<h4> Food Talk is consumers's friend against food waste </h4>
 
 Changing your habit is not easy although you are aware that food waste is a big issue to tackle. With the aim to help consumers achieve the goal of reducing food waste and saving their budget, Food Talk has been developed with functions as below:
 
@@ -60,7 +60,7 @@ Changing your habit is not easy although you are aware that food waste is a big 
 
 Our team believes that Food Talk by far will become an efficient and necessary tool for each household in developed countries in the movement against food waste.
 
-<h2>References</h2>
+<h4>References</h4>
 
 - Barilla Center. 2012. Food waste: causes, impacts and proposals. Italy: Barilla center for food & nutrition.
 - Dobbs .R et al. 2011. Resource Revolution: Meeting the World's Energy, Materials, Food and Water Needs. Mc Kinsey Global Institute.
